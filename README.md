@@ -1,0 +1,2 @@
+# colpl
+Collective Public License
