@@ -55,3 +55,11 @@ or consequential damages whatsoever resulting from loss of use, data, or
 profits, whether in an action of contract, negligence, or other tortious action,
 arising out of or in connection with the use of this license or software
 licensed under its terms.
+
+## Copyright
+
+All of the code, documentation, and work in this repository is considered a
+"Collective Work" under copyright law, and for the purposes of said copyright
+the person(s) listed as "owners" of this repository are considered to be its
+Author(s). Any contributions to this repository, if they are accepted, are
+considered to be covered under the terms of the COLPL0 + CC-BY-SA 4.0.
