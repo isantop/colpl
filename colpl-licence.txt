@@ -1,4 +1,4 @@
-Collective Public Licence, Version 0
+Collective Public Licence, Version 1
 
 TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION, AND MODIFICATION
 
@@ -32,7 +32,7 @@ OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
 TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
 THIS SOFTWARE.
 
-This software may be distributed under other terms than those presented here,
+This software may be distributed under additional terms than those presented here,
 provided those terms are not in conflict with the terms provided here. Any 
 additional license, disclosure, terms, or disclaimer is provided at the end of
 this document.
